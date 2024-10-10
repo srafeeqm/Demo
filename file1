@@ -1,0 +1,10 @@
+2. Viewing and Editing Files:
+1.	`cat <file>` - Display contents of a file.
+2.	`more <file>` / `less <file>` - View file contents page by page.
+3.	`head <file>` - View the first few lines of a file.
+4.	`tail <file>` - View the last few lines of a file.
+5.	`tail -f <file>` (follow changes to the file)
+6.	`nano <file>` - Edit a file using the Nano editor.
+7.	`vim <file>` - Edit a file using the Vim editor.
+8.	`touch <file>` - Create an empty file or update a file's timestamp.
+
